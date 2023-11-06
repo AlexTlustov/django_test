@@ -2,3 +2,7 @@ django
 djangorestframework
 django-filter
 psycopg2-binary
+pytest
+model_bakery
+pytest-django
+python-dotenv
